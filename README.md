@@ -1,6 +1,6 @@
 # international-airpassengers-project
 
-Submitted by: <Renad Aljarallah> — academy: @SDAIAAcademy
+Submitted by: Renad Aljarallah — academy: @SDAIAAcademy
 
 Capstone for the SDAIA Time Series course: the full pipeline — exploration,
 decomposition, benchmark floor, model through the framework (AutoGluon),
